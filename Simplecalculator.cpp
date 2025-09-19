@@ -58,5 +58,9 @@ default: cout<< "ERROR. Inserte un valor valido";
     break;
 }
 
+cout<<"Fin del programa. "<< endl;
+
+system("pause");
+
     return 0;
 }
